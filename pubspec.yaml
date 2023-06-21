@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/SaadSabry/flutter_cached_network_image.git
       path: cached_network_image
-  intl: ^0.17.0
+  intl: ^0.18.0
   video_player: ^2.4.5
 
 dev_dependencies:
